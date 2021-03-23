@@ -5,7 +5,7 @@ import TileLayer from 'ol/layer/Tile'
 import OSM from 'ol/source/OSM'
 
 // makes it so the map view uses geographic coordinates
-useGeographic();
+useGeographic()
 
 // create a new openlayer map instance
 const map = new Map({
