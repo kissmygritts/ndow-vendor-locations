@@ -66,10 +66,17 @@ const map = new Map({
   })
 })
 
-map.on('singleclick', function(evt) {
-  var coordinate = evt.coordinate;
-  var hdms = toStringHDMS((coordinate));
 
-  content.innerHTML = '<p>You clicked here:</p><code>' + hdms + '</code>';
-  overlay.setPosition(coordinate);
+//Display agent name on single click
+map.on('singleclick', function(evt) {
+  let feature = map.forEachFeatureAtPixel(evt.pixel, function (feature) {
+    return feature;
+  });
+  if (feature) {
+    let coordinates = feature.getGeometry().getCoordinates();
+    overlay.setPosition(coordinates);
+    let agent_name = feature.get('AGENT_NAME')
+    let address = feature.get('ADDRESS')
+    content.innerHTML = '<p>Agent Name:</p>' + agent_name + '<p>Address:</p>' + address;
+  }
 });
