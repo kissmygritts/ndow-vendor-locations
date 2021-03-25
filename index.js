@@ -7,7 +7,7 @@ import VectorLayer from 'ol/layer/Vector';
 import VectorSource from 'ol/source/Vector';
 import GeoJSON from 'ol/format/GeoJSON';
 
-import data from './data/test_vendor_location_data.geojson';
+import data from './data/vendors.geojson';
 
 // makes it so the map view uses geographic coordinates
 useGeographic()

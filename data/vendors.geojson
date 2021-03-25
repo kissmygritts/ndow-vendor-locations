@@ -1,0 +1,1877 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 10400,
+        "name": "BIG 5 SPORTING GOODS #476",
+        "address": "920 W WILLIAMS AVE STE 10, FALLON 89406",
+        "phone": "775-423-5515",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7872486,
+          39.47470618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 12000,
+        "name": "WAL-MART #2453",
+        "address": "2333 RENO HWY, FALLON 89406",
+        "phone": "775-428-1700",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8066075,
+          39.47562045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 12200,
+        "name": "FRONTIER LIQUOR",
+        "address": "33 DEER CREEK CIR, FALLON, 89406",
+        "phone": "775-423-2715",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8245355,
+          39.480863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 20100,
+        "name": "BIG 5 SPORTING GOODS # 277",
+        "address": "3975 S BUFFALO DR STE C-103, LAS VEGAS, 89147",
+        "phone": "702-248-6836",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.26453,
+          36.1169865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 20400,
+        "name": "WAL-MART #1838",
+        "address": "3041 N RAINBOW BLVD, LAS VEGAS, 89108",
+        "phone": "702-656-0199",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2455058,
+          36.2153196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 20510,
+        "name": "ARIZONA CHARLIE'S",
+        "address": "740 S DECATUR BLVD, LAS VEGAS, 89107",
+        "phone": "702-258-5200",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2060569,
+          36.16356261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 21210,
+        "name": "SPORTSMAN'S WAREHOUSE",
+        "address": "5647 CENTENNIAL CENTER BLVD, LAS VEGAS, 89149",
+        "phone": "702-474-1100",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2745608,
+          36.2771008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 21600,
+        "name": "WAL-MART SUPERCENTER #3473",
+        "address": "4505 W CHARLESTON BLVD, LAS VEGAS, 89102",
+        "phone": "702-258-4540",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.201679,
+          36.1563692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 22010,
+        "name": "BIG 5 SPORTING GOODS #413",
+        "address": "8445 W WARM SPRINGS RD, LAS VEGAS, 89113",
+        "phone": "702-260-4902",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2757024,
+          36.05564156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 22310,
+        "name": "BIG 5 SPORTING GOODS #422",
+        "address": "7351 W LAKE MEAD BLVD, STE 100 LAS VEGAS, 89128",
+        "phone": "702-240-0151",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2550113,
+          36.1946592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 22500,
+        "name": "BIG 5 SPORTING GOODS #117",
+        "address": "4275 E CHARLESTON, LAS VEGAS, 89104",
+        "phone": "702-641-2224",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1342958,
+          36.1588801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 22910,
+        "name": "DICK'S SPORTING GOODS #440",
+        "address": "1308 W SUNSET RD, HENDERSON, NV 89014",
+        "phone": "702-855-5000",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0415522,
+          36.06380399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 24100,
+        "name": "NELLIS AFB EXCHANGE",
+        "address": "5691 RICKENBACHER BLDG 431, NELLIS AFB, 89191",
+        "phone": "702-643-3526",
+        "pos_agent": "FALSE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0539678,
+          36.233873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 24900,
+        "name": "BIG 5 SPORTING GOODS #254",
+        "address": "2020 W CRAIG RD #100, N LAS VEGAS. 89031",
+        "phone": "702-647-7206",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1745228,
+          36.2407697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 25010,
+        "name": "C-A-L RANCH #20",
+        "address": "232 N JONES BLVD, LAS VEGAS. NV89107",
+        "phone": "702-430-7002",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2239434,
+          36.1758688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 25200,
+        "name": "BIG 5 SPORTING GOODS #006",
+        "address": "1140 S DECATUR BLVD, LAS VEGAS, 89102",
+        "phone": "702-878-6100",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2057501,
+          36.15849673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 25300,
+        "name": "WAL-MART SUPERCENTER #2884",
+        "address": "8060 W TROPICAL PKWY, LAS VEGAS, 89149",
+        "phone": "702-839-3620",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2710297,
+          36.27165925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 25500,
+        "name": "WAL-MART SUPERCENTER #2838",
+        "address": "540 MARKS ST, HENDERSON, 89014",
+        "phone": "702-547-0551",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0332369,
+          36.0603483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 25600,
+        "name": "OVERTON ACE HARDWARE",
+        "address": "183 MOAPA VALLEY BLVD, OVERTON, 89040",
+        "phone": "702-397-2289",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4465513,
+          36.54603245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 25700,
+        "name": "WAL-MART #1559",
+        "address": "201 N NELLIS BLVD, LAS VEGAS, 89110",
+        "phone": "702-452-9998",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0638176,
+          36.1655712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 26100,
+        "name": "WAL-MART  SUPERCENTER#1560",
+        "address": "6005 S. EASTERN AVE, LAS VEGAS, 89119",
+        "phone": "702-451-8900",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1222657,
+          36.08041675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 26300,
+        "name": "WAL-MART  SUPERCENTER #1584",
+        "address": "3615 S RAINBOW BLVD, LAS VEGAS, 89103",
+        "phone": "702-367-9999",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2466207,
+          36.123254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 26500,
+        "name": "BIG 5 SPORTING GOODS #311",
+        "address": "1211 S BOULDER HWY, HENDERSON, 89015",
+        "phone": "702-564-2691",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9563153,
+          36.01697524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 26800,
+        "name": "BIG 5 SPORTING GOODS #302",
+        "address": "2712 N GREEN VALLEY, HENDERSON, 89014",
+        "phone": "702-434-4141",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0837242,
+          36.0695274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 27010,
+        "name": "BIG 5 SPORTING GOODS #501",
+        "address": "3265 E TROPICANA AVE, LAS VEGAS, 89121",
+        "phone": "702-435-1393",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1068895,
+          36.0987612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 27400,
+        "name": "WAL-MART SUPERCENTER #2592",
+        "address": "1807 W CRAIG RD, N LAS VEGAS, 89032",
+        "phone": "702-633-6521",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1682056,
+          36.23674225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 27500,
+        "name": "WAL-MART SUPERCENTER #2593",
+        "address": "2310 E SERENE AVE, LAS VEGAS, 89123",
+        "phone": "702-270-7831",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1241884,
+          36.02289145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 27600,
+        "name": "SEARCHLIGHT BOAT & RV STORAGE",
+        "address": "250 E COTTONWOOD COVE, SEARCHLIGHT, 89046",
+        "phone": "702-297-1600",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.918588,
+          35.46613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 27700,
+        "name": "SUNSET MARKET BAIT & TACKLE",
+        "address": "1000 E LAKE MEAD DR, HENDERSON, 89015",
+        "phone": "702-566-0070",
+        "pos_agent": "FALSE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9682981,
+          36.0563353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 27800,
+        "name": "WAL-MART SUPERCENTER #3847",
+        "address": "1110 W PIONEER BLVD, MESQUITE, 89027",
+        "phone": "702-346-0208",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0782607,
+          36.8144008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 27900,
+        "name": "WAL-MART SUPERCENTER #3351",
+        "address": "6464 N DECATUR BLVD,  LAS VEGAS 89084",
+        "phone": "702-515-7050",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2059089,
+          36.195431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 28000,
+        "name": "BIG 5 SPORTING GOODS #339",
+        "address": "6720 N DURANGO DR, STE 110, LAS VEGAS, 89149-4435",
+        "phone": "702-395-1474",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2881234,
+          36.2835551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 28100,
+        "name": "WAL-MART SUPERCENTER #5070",
+        "address": "5200 S FT APACHE RD, LAS VEGAS, 89148",
+        "phone": "702-367-4001",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2939086,
+          36.09414245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 28300,
+        "name": "BIG 5 SPORTING GOODS #0370",
+        "address": "9540 S EASTERN AVE, HENDERSON, 89123",
+        "phone": "702-260-4290",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1186203,
+          36.01578398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 28400,
+        "name": "WAL-MART SUPERCENTER #3350",
+        "address": "5198 BOULDER HWY, LAS VEGAS NV 89122",
+        "phone": "702-434-5595",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.062987,
+          36.1083278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 28500,
+        "name": "WAL-MART SUPERCENTER #4356",
+        "address": "7200 ARROYO CROSS PARKWAY, LAS VEGAS NV 89113",
+        "phone": "702-270-6003",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.251496,
+          36.0648947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 28600,
+        "name": "WAL-MART SUPERCENTER #3728",
+        "address": "3950 W. LAKE MEAD BLVD, N LAS VEGAS NV 89032",
+        "phone": "702-631-0421",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1917015,
+          36.2010632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 29000,
+        "name": "BASS PRO SHOPS OUTDOOR WORLD",
+        "address": "8200 DEAN MARTIN RD, LAS VEGAS , 89139",
+        "phone": "702-730-5200",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1857319,
+          36.0415806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 29300,
+        "name": "WAL-MART SUPERCENTER #4557",
+        "address": "3075 E TROPICANA, LAS VEGAS, NV 89121",
+        "phone": "702-433-4267",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1083077,
+          36.09807185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 29900,
+        "name": "WAL-MART SUPERCENTER #2050",
+        "address": "300 E LAKE MEAD PKWY, HENDERSON, 89015",
+        "phone": "702-564-3665",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.992677,
+          36.036347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 40200,
+        "name": "GUN WORLD",
+        "address": "2516 NODDLE LN, ELKO 89801",
+        "phone": "775-738-2666",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7900063,
+          40.8389631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 41700,
+        "name": "CARLIN ACE HARDWARE",
+        "address": "924 BUSH ST, CARLIN, 89822",
+        "phone": "775-754-6211",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1066521,
+          40.71691491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 45400,
+        "name": "WAL-MART SUPERCENTER #2402",
+        "address": "2944 MTN CITY HWY, ELKO, 89801",
+        "phone": "775-778-6778",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7925672,
+          40.8408869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 45500,
+        "name": "BIG 5 SPORTING GOODS #250",
+        "address": "2409 MTN CITY HWY, ELKO, 89801",
+        "phone": "775-777-2252",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7902407,
+          40.83727939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 46000,
+        "name": "SPRING CREEK ACE HARDWARE",
+        "address": "263 SPRING VALLEY PKWY STE K, ELKO, 89815",
+        "phone": "775-738-5444",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6758873,
+          40.786602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 46400,
+        "name": "C-A-L RANCH STORES",
+        "address": "2540 IDAHO ST ELKO NV 89801",
+        "phone": "775-753-7000",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7448881,
+          40.85107348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 40200,
+        "name": "GUN WORLD",
+        "address": "2516 NODDLE LN, ELKO 89801",
+        "phone": "775-738-2666",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7900063,
+          40.8389631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 41700,
+        "name": "CARLIN ACE HARDWARE",
+        "address": "924 BUSH ST, CARLIN, 89822",
+        "phone": "775-754-6211",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1066521,
+          40.71691491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 44200,
+        "name": "OUTDOOR INN",
+        "address": "GENERAL DELIVERY MAIN STREET, JARBIDGE, 89826",
+        "phone": "775-488-2311",
+        "pos_agent": "FALSE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4304,
+          41.875428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 45400,
+        "name": "WAL-MART SUPERCENTER #2402",
+        "address": "2944 MTN CITY HWY, ELKO, 89801",
+        "phone": "775-778-6778",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7925672,
+          40.8408869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 45500,
+        "name": "BIG 5 SPORTING GOODS #250",
+        "address": "2409 MTN CITY HWY, ELKO, 89801",
+        "phone": "775-777-2252",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7902407,
+          40.83727939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 46000,
+        "name": "SPRING CREEK ACE HARDWARE",
+        "address": "263 SPRING VALLEY PKWY STE K, ELKO, 89815",
+        "phone": "775-738-5444",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6758873,
+          40.786602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 46400,
+        "name": "C-A-L RANCH STORES",
+        "address": "2540 IDAHO ST ELKO NV 89801",
+        "phone": "775-753-7000",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7448881,
+          40.85107348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 60200,
+        "name": "RAINE'S MARKET",
+        "address": "81 N MAIN ST, EUREKA, 89316",
+        "phone": "775-237-5296",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.96824645996092,
+          39.53237931859914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 70200,
+        "name": "C.B. BROWN",
+        "address": "221 S. BRIDGE ST, WINNEMUCCA, 89445",
+        "phone": "775-623-2541",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7354016,
+          40.974092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 70300,
+        "name": "WAL-MART SUPERCENTER #2617",
+        "address": "3010 POTATO RD, WINNEMUCCA, 89445",
+        "phone": "775-625-3777",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7466979,
+          40.9529265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 70500,
+        "name": "SANTA ROSA STATION",
+        "address": "3335 STATE RT 290, WINNEMUCCA, 89446",
+        "phone": "775-623-5547",
+        "pos_agent": "FALSE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.858424,
+          41.1236958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 81400,
+        "name": "ETCHEVERRY'S FOODTOWN",
+        "address": "424 E FRONT ST, BATTLE MOUNTAIN, 89820",
+        "phone": "775-635-2677",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9335811,
+          40.6383113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 90100,
+        "name": "MOUNTAIN MERCANTILE",
+        "address": "169 CLOVER ST, CALIENTE, 89008",
+        "phone": "775-726-3891",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5092166,
+          37.61475012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 90200,
+        "name": "EAGLE VALLEY RESORT",
+        "address": "HC 74 BOX 262-2, PIOCHE, 89043",
+        "phone": "775-962-5293",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4729435,
+          37.9494018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 90400,
+        "name": "R PLACE",
+        "address": "ASH SPRINGS, HIKO, 89017",
+        "phone": "775-725-3545",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1982057,
+          37.461591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 90500,
+        "name": "TILLIE'S MINI MARKET",
+        "address": "#1 MAIN ST, PIOCHE, 89043",
+        "phone": "775-962-5205",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4498071,
+          37.9390195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 101300,
+        "name": "SCOLARI'S  #27",
+        "address": "1400 ALT 95A, FERNLEY, 89408",
+        "phone": "775-575-1381",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.79363,
+          39.0758716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 102500,
+        "name": "GIOMI INC",
+        "address": "119 W BRIDGE ST, YERINGTON, 89447",
+        "phone": "775-463-4427",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1645787,
+          38.98285918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 103500,
+        "name": "SCOLARI'S #25",
+        "address": "176 W GOLDFIELD AVE, YERINGTON, 89447",
+        "phone": "775-463-4431",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1651781,
+          38.99395417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 104200,
+        "name": "WAL-MART SUPERCENTER #4370",
+        "address": "1550 E NEWLANDS DR, FERNLEY, 89408",
+        "phone": "775-575-4832",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2023222,
+          39.61048049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 120200,
+        "name": "SCOLARI'S  #15",
+        "address": "HWY 95 AIR FORCE RD, TONOPAH, 89049",
+        "phone": "775-482-6791",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2203655,
+          38.0596202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 120300,
+        "name": "WAL-MART #5101",
+        "address": "300 S HWY 160, PAHRUMP, 89048",
+        "phone": "775-537-1400",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9979038,
+          36.2224887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 120500,
+        "name": "BIG 5 SPORTING GOODS #480",
+        "address": "2171 E CARLTON ST, PAHRUMP, 89048",
+        "phone": "775-727-3740",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9746524,
+          36.2018688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 130100,
+        "name": "WAL-MART SUPERCENTER #3408",
+        "address": "3200 MARKET ST, CARSON CITY, 89706",
+        "phone": "775-883-6415",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.757581,
+          39.1869974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 130700,
+        "name": "WAL-MART #1648",
+        "address": "3770 HWY 395 S, CARSON CITY, 89705",
+        "phone": "775-267-2158",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7783585,
+          39.11158935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 131200,
+        "name": "SPORTSMAN'S WAREHOUSE",
+        "address": "1443 S CARSON ST, CARSON CITY, 89701",
+        "phone": "775-884-2100",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7662357,
+          39.1552355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 133200,
+        "name": "BIG 5 SPORTING GOODS #432",
+        "address": "4219 S CARSON ST, CARSON CITY, 89701",
+        "phone": "775-883-0848",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7669813,
+          39.152775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 133500,
+        "name": "C-AL-L RANCH STORES",
+        "address": "2035 N CARSON ST, CARSON CITY, 89701",
+        "phone": "775-461-2213",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7660422,
+          39.1803948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 160100,
+        "name": "KRUSE'S FEED & HARDWARE",
+        "address": "3235 EASTLAKE BLVD, WASHOE VALLEY, 89704",
+        "phone": "775-849-2077",
+        "pos_agent": "FALSE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.76861,
+          39.29059709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 160900,
+        "name": "BIG 5 SPORTING GOODS #296",
+        "address": "558 N MCCARRAN BLVD, SPARKS, 89431",
+        "phone": "775-331-1211",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.73415,
+          39.53971508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 161400,
+        "name": "WAL-MART SUPERCENTER #3254",
+        "address": "5260 W 7TH ST, RENO, 89523",
+        "phone": "775-624-2000",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8677188,
+          39.5355037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 162000,
+        "name": "WAL-MART SUPERCENTER #3729",
+        "address": "5065 PYRAMID HWY, SPARKS, 89436",
+        "phone": "775-425-9300",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7024993,
+          39.6793949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 162800,
+        "name": "MARK FORE & STRIKE",
+        "address": "490 KIETZKE LN, RENO, 89502",
+        "phone": "775-322-9559",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7890554,
+          39.5241551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 165000,
+        "name": "CABELA'S RETAIL INC",
+        "address": "8650 BOOMTOWN RD, VERDI NV 89439",
+        "phone": "775-829-4104",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9636556,
+          39.51168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 165300,
+        "name": "SCHEELS ALL SPORTS INC",
+        "address": "1200 SCHEEL DR SPARKS, NV 89434",
+        "phone": "775-331-2700",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.723939,
+          39.5310517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 165500,
+        "name": "WAL-MART SUPERCENTER #4239",
+        "address": "250 VISTA KNOLL PKWY, STEAD, NV 89506",
+        "phone": "775-332-0308",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8552996,
+          39.6154242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 166200,
+        "name": "SPORTSMAN'S WAREHOUSE",
+        "address": "3306 KIETZKE LN, RENO, 89502",
+        "phone": "775-828-1500",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7889753,
+          39.49276201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 167900,
+        "name": "BIG 5 SPORTING GOODS #051",
+        "address": "4986 S VIRGINIA ST, RENO, 89502",
+        "phone": "775-825-2322",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8002998,
+          39.4997499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 168600,
+        "name": "WAL-MART SUPERCENTER #2106",
+        "address": "2425 E 2ND ST, RENO, 89502",
+        "phone": "775-359-8200",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7816532,
+          39.52906915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 168800,
+        "name": "WAL-MART SUPERCENTER #2189",
+        "address": "4855 KIETZKE LN, RENO, 89502",
+        "phone": "775-829-8088",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7933455,
+          39.4808442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 169900,
+        "name": "WAL-MART SUPERCENTER #3277",
+        "address": "155 DAMONTE RANCH PKWY, RENO, 89511",
+        "phone": "775-853-6400",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7566395,
+          39.4228036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 171200,
+        "name": "HOTEL NEVADA & GAMBLING HALL",
+        "address": "501 AULTMAN ST, ELY, 89301",
+        "phone": "775-289-6665",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.892722,
+          39.247991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 171300,
+        "name": "SPORTSWORLD",
+        "address": "1500 AULTMAN ST, ELY, 89301",
+        "phone": "775-289-8886",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.881635,
+          39.250905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 180400,
+        "name": "R PLACE",
+        "address": "80 E WENDOVER BLVD, WENDOVER UT, 84083",
+        "phone": "435-665-2635",
+        "pos_agent": "TRUE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.041944,
+          40.736007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 180700,
+        "name": "KEN'S SPORTING GOODS",
+        "address": "258 MAIN ST, BRIDGEPORT, CA, 93517",
+        "phone": "760-932-7707",
+        "pos_agent": "FALSE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2283734,
+          38.2559003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 181200,
+        "name": "BIG 5 SPORTING GOODS #221",
+        "address": "1835 HWY 95, BULLHEAD, AZ, 86442",
+        "phone": "928-763-0608",
+        "pos_agent": "FALSE",
+        "state_office": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.59358,
+          35.1202457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 190100,
+        "name": "WESTERN REGIONAL OFFICE - LICENSE/BOAT",
+        "address": "1100 VALLEY RD, RENO, 89512",
+        "phone": "775-688-1511/1517",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.807698,
+          39.538991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 190200,
+        "name": "EASTERN REGIONAL OFFICE - LICENSE/BOAT",
+        "address": "60 YOUTH CENTER RD, ELKO, 89801",
+        "phone": "775-777-2300",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.727387,
+          40.880161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 190300,
+        "name": "SOUTHERN REGIONAL OFFICE - LICENSE/BOAT",
+        "address": "4747 VEGAS DR, LAS VEGAS, 89108",
+        "phone": "702-486-5127",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2040538,
+          36.18814544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 190400,
+        "name": "FALLON OFFICE  - LICENSE/BOAT",
+        "address": "380 W \"B\" ST, FALLON, 89406",
+        "phone": "775-423-3171",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7811927,
+          39.4775487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 190500,
+        "name": "SOUTHERN - HENDERSON - LICENSE/BOAT",
+        "address": "744 SOUTH RACETRACK RD, HENDERSON, 89015",
+        "phone": "702-486-6742",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9509438,
+          36.01609268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 190700,
+        "name": "EASTERN REGION - ELY",
+        "address": "1218 N ALPHA ST, ELY, 89301",
+        "phone": "775-289-1655 X21",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.834783,
+          39.2930275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 190800,
+        "name": "SOUTHERN - TONOPAH - LICENSE",
+        "address": "400 HOWERTON HILL DR STE D, TONOPAH, 89049",
+        "phone": "775-482-3153",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2192156,
+          38.0612884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 190900,
+        "name": "WESTERN - WINNEMUCCA - LICENSE/BOAT",
+        "address": "815 E FOURTH ST, WINNEMUCCA, 89445",
+        "phone": "775-623-6565",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7289195,
+          40.9790062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 191100,
+        "name": "SOUTHERN - PANACA- LICENSE",
+        "address": "333 CATHEDRAL GORGE RD, PANACA, 89042",
+        "phone": "775-728-4233",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4176438,
+          37.8240508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 191800,
+        "name": "WESTERN - CARSON - LICENSE",
+        "address": "1100 VALLEY RD, RENO, 89512",
+        "phone": "775-687-4393",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.807698,
+          39.538991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 194100,
+        "name": "DEPARTMENT HEADQUARTERS - LICENSE/BOAT",
+        "address": "6980 SIERRA CENTER PKWY STE 120, RENO, 89511",
+        "phone": "775-688-1507",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7763292,
+          39.4628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agent": 195000,
+        "name": "SLAP AGENT",
+        "address": "6980 SIERRA CENTER PKWY STE 120, RENO, 89511",
+        "phone": "775-688-1512",
+        "pos_agent": "FALSE",
+        "state_office": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7763,
+          39.4625
+        ]
+      }
+    }
+  ]
+}
