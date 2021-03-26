@@ -4,7 +4,9 @@
   "description": "A map of license NDOW license vendors",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html"
+    "dev": "parcel src/index.html",
+    "lint": "npx eslint \"src/**/*.{js, html}\"",
+    "lint:fix": "npx eslint \"src/**/*.{js, html}\" --fix"
   },
   "contributors": [
     "Mitchell Gritts <mitchellgritts@pm.me> (https://mitchellgritts.com)",
