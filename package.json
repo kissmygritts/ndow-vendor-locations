@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
     "lint": "npx eslint \"src/**/*.{js, html}\"",
     "lint:fix": "npx eslint \"src/**/*.{js, html}\" --fix"
   },
