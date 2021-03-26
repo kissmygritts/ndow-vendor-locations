@@ -70,15 +70,28 @@ const map = new Map({
 
 // display agent data on single click
 map.on('singleclick', function(evt) {
-  let feature = map.forEachFeatureAtPixel(evt.pixel, function (feature) {
-    return feature;
-  });
+  const feature = map.forEachFeatureAtPixel(evt.pixel, (feature) => feature)
+
   if (feature) {
     let coordinates = feature.getGeometry().getCoordinates();
+    const properties = feature.values_
+    const googleMapsLink = `https://google.com/maps/place/${properties.address.replaceAll(' ', '+')}`
+    console.log({ googleMapsLink })
+
     overlay.setPosition(coordinates);
-    let agent_name = feature.get('AGENT_NAME')
-    let address = feature.get('ADDRESS')
-    let phone = feature.get('PHONE')
-    content.innerHTML = '<p>Agent Name:</p>' + agent_name + '<p>Address:</p>' + address + '<p>Phone Number:</p>' + phone;
+
+    const popupTitle = document.getElementById('ol-popup-title')
+    const popupBody = document.getElementById('ol-popup-body')
+    const popupLink = document.getElementById('ol-popup-link')
+
+    popupTitle.innerHTML = `${properties.name.toLowerCase()}`
+    popupBody.innerHTML = `
+      <p><bold>Phone: </bold>${properties.phone}</p>
+      <p>${properties.address.toLowerCase()}</p>
+    `
+    popupLink.href = googleMapsLink
+
+    // content.innerHTML = '<p>Agent Name:</p>' + agent_name + '<p>Address:</p>' + address + '<p>Phone Number:</p>' + phone;
+    
   }
 });
