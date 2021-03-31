@@ -6,9 +6,9 @@ import { Fill, Stroke, Style, Circle } from 'ol/style'
 const geolocationStyle = new Style({
   image: new Circle({
     radius: 7,
-    fill: new Fill({ color: [92, 49, 57, 0.90] }),
+    fill: new Fill({ color: [50, 168, 82, 0.90] }),
     stroke: new Stroke({
-      color: [125, 40, 57, 0.90], width: 2
+      color: [15, 74, 31, 0.90], width: 2
     })
   })
 })
