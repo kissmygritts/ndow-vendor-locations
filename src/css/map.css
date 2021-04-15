@@ -1,3 +1,8 @@
+#title {
+  text-align: center;
+  padding: 10px;
+}
+
 #map {
         width: 100%;
         height: 100%;
@@ -13,7 +18,7 @@
         border: 1px solid #cccccc;
         bottom: 12px;
         left: -50px;
-        min-width: 300px;
+        min-width: 400px;
         text-transform: capitalize;
       }
 
@@ -87,11 +92,11 @@
         padding: 6px;
         background-color: #678e6c;
         border-radius: 4px;
-        /* text-align: center; */
         display: flex;
         justify-content: center;
         align-items: center
       }
+
       .locate {
         top: 4em;
         left: .5em;
