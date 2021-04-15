@@ -5,9 +5,11 @@ import TileLayer from 'ol/layer/Tile'
 import OSM from 'ol/source/OSM'
 import Feature from 'ol/Feature'
 import Point from 'ol/geom/Point'
-import { vendorsLayer } from './js/vendors-layer.js'
+import { vendorsLayer, officeLayer } from './js/vendors-layer.js'
 import { popupOverlay, createVendorPopup } from './js/vendors-popup.js'
 import { geolocateControl, geolocationLayer, geolocationSource } from './js/geolocation-layer.js'
+import LayerSwitcher from 'ol-layerswitcher';
+import LayerGroup from 'ol/layer/Group'
 
 useGeographic()
 
@@ -18,8 +20,24 @@ const map = new Map({
     new TileLayer({
       source: new OSM()
     }),
-    vendorsLayer,
-    geolocationLayer
+    new LayerGroup({
+      'title': 'Vendors',
+      layers: [
+        vendorsLayer,
+      ]
+    }),
+    new LayerGroup({
+      'title': 'State Offices',
+      layers: [
+        officeLayer,
+      ]
+    }),
+    new LayerGroup({
+      'title': 'Current Location',
+      layers: [
+        geolocationLayer,
+      ]
+    })
   ],
   overlays: [popupOverlay],
   view: new View({
@@ -68,3 +86,6 @@ document.addEventListener('locate-me', (event) => {
     })
   }
 })
+
+var layerSwitcher = new LayerSwitcher();
+map.addControl(layerSwitcher);

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 4,
+                "vendorid": 190300,
+                "name": "Nevada Department of Wildlife - Las Vegas",
+                "address": "4747 Vegas Drive, Las Vegas, Nevada, 89108",
+                "state_office": "TRUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.2040538,
+                    36.18814544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 5,
+                "vendorid": 190500,
+                "name": "Nevada Department of Wildlife - Henderson",
+                "address": "744 South Racetrack Road, Henderson, Nevada, 89015",
+                "state_office": "TRUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.9509438,
+                    36.01609268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 6,
+                "vendorid": 190400,
+                "name": "Nevada Department of Wildlife - Fallon",
+                "address": "380 West B Street, Fallon, Nevada, 89406",
+                "state_office": "TRUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.7811927,
+                    39.4775487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 8,
+                "vendorid": 190100,
+                "name": "Nevada Department of Wildlife - Reno",
+                "address": "1100 Valley Road, Reno, Nevada, 89512",
+                "state_office": "TRUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.807698,
+                    39.538991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 10,
+                "vendorid": 190900,
+                "name": "Nevada Department of Wildlife - Winnemucca",
+                "address": "815 East 4th Street, Winnemucca, Nevada, 89445",
+                "state_office": "TRUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.7264215,
+                    40.9788095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 19,
+                "vendorid": 190200,
+                "name": "Nevada Department of Wildlife - Elko",
+                "address": "60 Youth Center Road, Elko, Nevada, 89801",
+                "state_office": "TRUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.727387,
+                    40.880161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 48,
+                "vendorid": 190700,
+                "name": "Nevada Department of Wildlife - Elly",
+                "address": "1218 Alpha Street, Ely, Nevada, 89301",
+                "state_office": "TRUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.8333518,
+                    39.29306313
+                ]
+            }
+        }
+    ]
+}
