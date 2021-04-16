@@ -1,7 +1,7 @@
 import VectorSource from 'ol/source/Vector'
 import VectorLayer from 'ol/layer/Vector'
 import GeoJSON from 'ol/format/GeoJSON'
-import { Style, Circle, Fill, Stroke, Icon } from 'ol/style'
+import { Style, Icon } from 'ol/style'
 import vendors from '../data/vendor.geojson'
 import offices from '../data/state_offices.geojson'
 import shop from '../data/shop.svg'
