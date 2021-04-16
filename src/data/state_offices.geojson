@@ -7,8 +7,9 @@
                 "ID": 4,
                 "vendorid": 190300,
                 "name": "Nevada Department of Wildlife - Las Vegas",
-                "address": "4747 Vegas Drive, Las Vegas, Nevada, 89108",
-                "state_office": "TRUE"
+                "address": "4747 Vegas Drive, Las Vegas 89108",
+                "state_office": "TRUE",
+                "phone": "702-486-5127"
             },
             "geometry": {
                 "type": "Point",
@@ -24,8 +25,9 @@
                 "ID": 5,
                 "vendorid": 190500,
                 "name": "Nevada Department of Wildlife - Henderson",
-                "address": "744 South Racetrack Road, Henderson, Nevada, 89015",
-                "state_office": "TRUE"
+                "address": "744 South Racetrack Road, Henderson 89015",
+                "state_office": "TRUE",
+                "phone": "702-486-5127"
             },
             "geometry": {
                 "type": "Point",
@@ -41,8 +43,9 @@
                 "ID": 6,
                 "vendorid": 190400,
                 "name": "Nevada Department of Wildlife - Fallon",
-                "address": "380 West B Street, Fallon, Nevada, 89406",
-                "state_office": "TRUE"
+                "address": "380 West B Street, Fallon 89406",
+                "state_office": "TRUE",
+                "phone": "775-423-3171"
             },
             "geometry": {
                 "type": "Point",
@@ -58,8 +61,9 @@
                 "ID": 8,
                 "vendorid": 190100,
                 "name": "Nevada Department of Wildlife - Reno",
-                "address": "1100 Valley Road, Reno, Nevada, 89512",
-                "state_office": "TRUE"
+                "address": "1100 Valley Road, Reno 89512",
+                "state_office": "TRUE",
+                "phone": "775-688-1506"
             },
             "geometry": {
                 "type": "Point",
@@ -75,8 +79,9 @@
                 "ID": 10,
                 "vendorid": 190900,
                 "name": "Nevada Department of Wildlife - Winnemucca",
-                "address": "815 East 4th Street, Winnemucca, Nevada, 89445",
-                "state_office": "TRUE"
+                "address": "815 East 4th Street, Winnemucca 89445",
+                "state_office": "TRUE",
+                "phone": "775-623-6565"
             },
             "geometry": {
                 "type": "Point",
@@ -92,8 +97,9 @@
                 "ID": 19,
                 "vendorid": 190200,
                 "name": "Nevada Department of Wildlife - Elko",
-                "address": "60 Youth Center Road, Elko, Nevada, 89801",
-                "state_office": "TRUE"
+                "address": "60 Youth Center Road, Elko 89801",
+                "state_office": "TRUE",
+                "phone": "775-777-2300"
             },
             "geometry": {
                 "type": "Point",
@@ -108,9 +114,10 @@
             "properties": {
                 "ID": 48,
                 "vendorid": 190700,
-                "name": "Nevada Department of Wildlife - Elly",
-                "address": "1218 Alpha Street, Ely, Nevada, 89301",
-                "state_office": "TRUE"
+                "name": "Nevada Department of Wildlife - Ely",
+                "address": "1218 Alpha Street, Ely 89301",
+                "state_office": "TRUE",
+                "phone": "775-289-1655"
             },
             "geometry": {
                 "type": "Point",

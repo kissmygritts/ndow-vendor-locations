@@ -1,14 +1,15 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
+         {
             "type": "Feature",
             "properties": {
                 "ID": 94,
                 "vendorid": 71000,
                 "name": "A1 Fuel Stop",
-                "address": "3335 Nevada 290, Winnemucca, Nevada, 89445",
-                "state_office": "FALSE"
+                "address": "3335 Nevada 290, Winnemucca 89445",
+                "state_office": "FALSE",
+                "phone": "775-623-5547"
             },
             "geometry": {
                 "type": "Point",
@@ -24,8 +25,9 @@
                 "ID": 18,
                 "vendorid": 29000,
                 "name": "Bass Pro Outdoor World",
-                "address": "8200 Dean Martin Drive, Las Vegas, Nevada, 89139",
-                "state_office": "FALSE"
+                "address": "8200 Dean Martin Drive, Las Vegas 89139",
+                "state_office": "FALSE",
+                "phone": "702-730-5200"
             },
             "geometry": {
                 "type": "Point",
@@ -41,8 +43,9 @@
                 "ID": 21,
                 "vendorid": 25200,
                 "name": "Big 5 Sporting Goods #006",
-                "address": "1140 South Decatur Boulevard, Las Vegas, Nevada, 89102",
-                "state_office": "FALSE"
+                "address": "1140 South Decatur Boulevard, Las Vegas 89102",
+                "state_office": "FALSE",
+                "phone": "702-878-6100"
             },
             "geometry": {
                 "type": "Point",
@@ -58,8 +61,9 @@
                 "ID": 27,
                 "vendorid": 26500,
                 "name": "Big 5 Sporting Goods #311",
-                "address": "1211 South Boulder Highway, Henderson, Nevada, 89015",
-                "state_office": "FALSE"
+                "address": "1211 South Boulder Highway, Henderson 89015",
+                "state_office": "FALSE",
+                "phone": "702-564-2691"
             },
             "geometry": {
                 "type": "Point",
@@ -75,8 +79,9 @@
                 "ID": 28,
                 "vendorid": 120500,
                 "name": "Big 5 Sporting Goods #480",
-                "address": "2171 Carlton Street, Pahrump, Nevada, 89048",
-                "state_office": "FALSE"
+                "address": "2171 Carlton Street, Pahrump 89048",
+                "state_office": "FALSE",
+                "phone": "775-727-3739"
             },
             "geometry": {
                 "type": "Point",
@@ -92,8 +97,9 @@
                 "ID": 32,
                 "vendorid": 32400,
                 "name": "Big 5 Sporting Goods #360",
-                "address": "1770 U.S. Highway 395 North, Minden, Nevada, 89423",
-                "state_office": "FALSE"
+                "address": "1770 U.S. Highway 395 North, Minden 89423",
+                "state_office": "FALSE",
+                "phone": "775-782-3412"
             },
             "geometry": {
                 "type": "Point",
@@ -109,8 +115,9 @@
                 "ID": 35,
                 "vendorid": 22010,
                 "name": "Big 5 Sporting Goods #413",
-                "address": "8445 West Warm Springs Road, Las Vegas, Nevada, 89113",
-                "state_office": "FALSE"
+                "address": "8445 West Warm Springs Road, Las Vegas 89113",
+                "state_office": "FALSE",
+                "phone": "702-260-4902"
             },
             "geometry": {
                 "type": "Point",
@@ -126,8 +133,9 @@
                 "ID": 36,
                 "vendorid": 20100,
                 "name": "Big 5 Sporting Goods #277",
-                "address": "3975 South Buffalo Drive, Las Vegas, Nevada, 89147",
-                "state_office": "FALSE"
+                "address": "3975 South Buffalo Drive, Las Vegas 89147",
+                "state_office": "FALSE",
+                "phone": "702-248-6836"
             },
             "geometry": {
                 "type": "Point",
@@ -143,8 +151,9 @@
                 "ID": 38,
                 "vendorid": 22500,
                 "name": "Big 5 Sporting Goods #117",
-                "address": "4275 East Charleston Boulevard, Las Vegas, Nevada, 89104",
-                "state_office": "FALSE"
+                "address": "4275 East Charleston Boulevard, Las Vegas 89104",
+                "state_office": "FALSE",
+                "phone": "702-641-2224"
             },
             "geometry": {
                 "type": "Point",
@@ -160,8 +169,9 @@
                 "ID": 39,
                 "vendorid": 28000,
                 "name": "Big 5 Sporting Goods #339",
-                "address": "6720 North Durango Drive, Las Vegas, Nevada, 89149",
-                "state_office": "FALSE"
+                "address": "6720 North Durango Drive, Las Vegas 89149",
+                "state_office": "FALSE",
+                "phone": "702-395-1474"
             },
             "geometry": {
                 "type": "Point",
@@ -177,8 +187,9 @@
                 "ID": 43,
                 "vendorid": 24900,
                 "name": "Big 5 Sporting Goods #254",
-                "address": "2020 West Craig Road, North Las Vegas, Nevada, 89032",
-                "state_office": "FALSE"
+                "address": "2020 West Craig Road, North Las Vegas 89032",
+                "state_office": "FALSE",
+                "phone": "702-647-7158"
             },
             "geometry": {
                 "type": "Point",
@@ -194,8 +205,9 @@
                 "ID": 47,
                 "vendorid": 160900,
                 "name": "Big 5 Sporting Goods #296",
-                "address": "558 North McCarran Boulevard, Sparks, Nevada, 89431",
-                "state_office": "FALSE"
+                "address": "558 North McCarran Boulevard, Sparks 89431",
+                "state_office": "FALSE",
+                "phone": "775-331-1211"
             },
             "geometry": {
                 "type": "Point",
@@ -211,8 +223,9 @@
                 "ID": 52,
                 "vendorid": 22310,
                 "name": "Big 5 Sporting Goods #422",
-                "address": "7351 West Lake Mead Boulevard, Las Vegas, Nevada, 89128",
-                "state_office": "FALSE"
+                "address": "7351 West Lake Mead Boulevard, Las Vegas 89128",
+                "state_office": "FALSE",
+                "phone": "702-240-0151"
             },
             "geometry": {
                 "type": "Point",
@@ -228,8 +241,9 @@
                 "ID": 53,
                 "vendorid": 26800,
                 "name": "Big 5 Sporting Goods #302",
-                "address": "2712 North Green Valley Parkway, Henderson, Nevada, 89014",
-                "state_office": "FALSE"
+                "address": "2712 North Green Valley Parkway, Henderson 89014",
+                "state_office": "FALSE",
+                "phone": "702-434-4141"
             },
             "geometry": {
                 "type": "Point",
@@ -245,8 +259,9 @@
                 "ID": 61,
                 "vendorid": 10400,
                 "name": "Big 5 Sporting Goods #476",
-                "address": "920 West Williams Avenue, Fallon, Nevada, 89406",
-                "state_office": "FALSE"
+                "address": "920 West Williams Avenue, Fallon 89406",
+                "state_office": "FALSE",
+                "phone": "775-423-5515"
             },
             "geometry": {
                 "type": "Point",
@@ -262,8 +277,9 @@
                 "ID": 64,
                 "vendorid": 27010,
                 "name": "Big 5 Sporting Goods #501",
-                "address": "3265 East Tropicana Avenue, Las Vegas, Nevada, 89121",
-                "state_office": "FALSE"
+                "address": "3265 East Tropicana Avenue, Las Vegas 89121",
+                "state_office": "FALSE",
+                "phone": "702-435-1393"
             },
             "geometry": {
                 "type": "Point",
@@ -279,8 +295,9 @@
                 "ID": 65,
                 "vendorid": 28300,
                 "name": "Big 5 Sporting Goods #370",
-                "address": "9540 South Eastern Avenue, Las Vegas, Nevada, 89123",
-                "state_office": "FALSE"
+                "address": "9540 South Eastern Avenue, Las Vegas 89123",
+                "state_office": "FALSE",
+                "phone": "702-260-4290"
             },
             "geometry": {
                 "type": "Point",
@@ -296,8 +313,9 @@
                 "ID": 68,
                 "vendorid": 133200,
                 "name": "Big 5 Sporting Goods #432",
-                "address": "4219 South Carson Street, Carson City, Nevada, 89701",
-                "state_office": "FALSE"
+                "address": "4219 South Carson Street, Carson City 89701",
+                "state_office": "FALSE",
+                "phone": "775-883-0848"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +331,9 @@
                 "ID": 69,
                 "vendorid": 45500,
                 "name": "Big 5 Sporting Goods #250",
-                "address": "2409 Mountain City Highway, Elko, Nevada, 89801",
-                "state_office": "FALSE"
+                "address": "2409 Mountain City Highway, Elko 89801",
+                "state_office": "FALSE",
+                "phone": "775-777-2252"
             },
             "geometry": {
                 "type": "Point",
@@ -330,8 +349,9 @@
                 "ID": 85,
                 "vendorid": 167900,
                 "name": "Big 5 Sporting Goods #051",
-                "address": "4986 South Virginia Street, Reno, Nevada, 89502",
-                "state_office": "FALSE"
+                "address": "4986 South Virginia Street, Reno 89502",
+                "state_office": "FALSE",
+                "phone": "775-825-2322"
             },
             "geometry": {
                 "type": "Point",
@@ -347,8 +367,9 @@
                 "ID": 44,
                 "vendorid": 70200,
                 "name": "C B Brown Co Inc",
-                "address": "221 South Bridge Street, Winnemucca, Nevada, 89445",
-                "state_office": "FALSE"
+                "address": "221 South Bridge Street, Winnemucca 89445",
+                "state_office": "FALSE",
+                "phone": "775-623-2541"
             },
             "geometry": {
                 "type": "Point",
@@ -364,8 +385,9 @@
                 "ID": 9,
                 "vendorid": 165000,
                 "name": "Cabela's Retail, Inc.",
-                "address": "8650 Boomtown Garson Road, Verdi, Nevada, 89439",
-                "state_office": "FALSE"
+                "address": "8650 Boomtown Garson Road, Verdi 89439",
+                "state_office": "FALSE",
+                "phone": "775-829-4100"
             },
             "geometry": {
                 "type": "Point",
@@ -380,9 +402,10 @@
             "properties": {
                 "ID": 45,
                 "vendorid": 46400,
-                "name": "C-A-L Ranch Stores",
-                "address": "2540 Idaho Street, Elko, Nevada, 89801",
-                "state_office": "FALSE"
+                "name": "C-A-L Ranch Stores 046400",
+                "address": "2540 Idaho Street, Elko 89801",
+                "state_office": "FALSE",
+                "phone": "775-753-7000"
             },
             "geometry": {
                 "type": "Point",
@@ -397,9 +420,10 @@
             "properties": {
                 "ID": 51,
                 "vendorid": 133500,
-                "name": "C-A-L Ranch Store",
-                "address": "2035 North Carson Street, Carson City, Nevada, 89706",
-                "state_office": "FALSE"
+                "name": "C-A-L Ranch Store 133500",
+                "address": "2035 North Carson Street, Carson City 89706",
+                "state_office": "FALSE",
+                "phone": "775-461-2213"
             },
             "geometry": {
                 "type": "Point",
@@ -414,9 +438,10 @@
             "properties": {
                 "ID": 79,
                 "vendorid": 25010,
-                "name": "C-A-L Ranch Store",
-                "address": "232 North Jones Boulevard, Las Vegas, Nevada, 89107",
-                "state_office": "FALSE"
+                "name": "C-A-L Ranch Store #20",
+                "address": "232 North Jones Boulevard, Las Vegas 89107",
+                "state_office": "FALSE",
+                "phone": "702-430-7002"
             },
             "geometry": {
                 "type": "Point",
@@ -431,9 +456,10 @@
             "properties": {
                 "ID": 91,
                 "vendorid": 175100,
-                "name": "C-A-L Ranch Store",
-                "address": "701 Great Basin Boulevard, Ely, Nevada, 89301",
-                "state_office": "FALSE"
+                "name": "C-A-L Ranch Store #23",
+                "address": "701 Great Basin Boulevard, Ely 89301",
+                "state_office": "FALSE",
+                "phone": "775-289-1525"
             },
             "geometry": {
                 "type": "Point",
@@ -449,8 +475,9 @@
                 "ID": 67,
                 "vendorid": 41700,
                 "name": "Carlin Ace Hardware",
-                "address": "924 Bush Street, Carlin, Nevada, 89822",
-                "state_office": "FALSE"
+                "address": "924 Bush Street, Carlin 89822",
+                "state_office": "FALSE",
+                "phone": "775-754-6211"
             },
             "geometry": {
                 "type": "Point",
@@ -466,8 +493,9 @@
                 "ID": 54,
                 "vendorid": 12200,
                 "name": "Frontier Liquor & Sporting Goods",
-                "address": "33 Deer Creek Circle, Fallon, Nevada, 89406",
-                "state_office": "FALSE"
+                "address": "33 Deer Creek Circle, Fallon 89406",
+                "state_office": "FALSE",
+                "phone": "775-423-2715"
             },
             "geometry": {
                 "type": "Point",
@@ -483,8 +511,9 @@
                 "ID": 66,
                 "vendorid": 102500,
                 "name": "Giomi Inc",
-                "address": "119 West Bridge Street, Yerington, Nevada, 89447",
-                "state_office": "FALSE"
+                "address": "119 West Bridge Street, Yerington 89447",
+                "state_office": "FALSE",
+                "phone": "775-463-4427"
             },
             "geometry": {
                 "type": "Point",
@@ -500,8 +529,9 @@
                 "ID": 59,
                 "vendorid": 40200,
                 "name": "Gun World",
-                "address": "2516 Noddle Lane, Elko, Nevada, 89801",
-                "state_office": "FALSE"
+                "address": "2516 Noddle Lane, Elko 89801",
+                "state_office": "FALSE",
+                "phone": "775-738-2666"
             },
             "geometry": {
                 "type": "Point",
@@ -517,8 +547,9 @@
                 "ID": 63,
                 "vendorid": 171200,
                 "name": "Hotel Nevada & Gambling Hall",
-                "address": "501 Aultman Street, Ely, Nevada, 89301",
-                "state_office": "FALSE"
+                "address": "501 Aultman Street, Ely 89301",
+                "state_office": "FALSE",
+                "phone": "775-289-6665"
             },
             "geometry": {
                 "type": "Point",
@@ -531,11 +562,30 @@
         {
             "type": "Feature",
             "properties": {
+                "ID": 57,
+                "vendorid": 999998,
+                "name": "Kalkomey Fulfillment and Support",
+                "address": "14086 Proton Road, Farmers Branch, Texax, 75244",
+                "state_office": "FALSE",
+                "phone": "855-542-6369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.83619933,
+                    32.94189948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ID": 87,
                 "vendorid": 180700,
                 "name": "Ken's Sporting Goods",
                 "address": "205 Main Street, Bridgeport, California, 93517",
-                "state_office": "FALSE"
+                "state_office": "FALSE",
+                "phone": "760-932-7707"
             },
             "geometry": {
                 "type": "Point",
@@ -551,8 +601,9 @@
                 "ID": 34,
                 "vendorid": 81400,
                 "name": "Lander Hardware",
-                "address": "424 East Front Street, Battle Mountain, Nevada, 89820",
-                "state_office": "FALSE"
+                "address": "424 East Front Street, Battle Mountain 89820",
+                "state_office": "FALSE",
+                "phone": "775-635-2422"
             },
             "geometry": {
                 "type": "Point",
@@ -568,8 +619,9 @@
                 "ID": 17,
                 "vendorid": 162800,
                 "name": "Mark Fore & Strike Sporting Goods",
-                "address": "490 Kietzke Lane, Reno, Nevada, 89502",
-                "state_office": "FALSE"
+                "address": "490 Kietzke Lane, Reno 89502",
+                "state_office": "FALSE",
+                "phone": "775-322-9559"
             },
             "geometry": {
                 "type": "Point",
@@ -585,8 +637,9 @@
                 "ID": 78,
                 "vendorid": 90100,
                 "name": "Mountain Mercantile",
-                "address": "169 Clover Street, Caliente, Nevada, 89008",
-                "state_office": "FALSE"
+                "address": "169 Clover Street, Caliente 89008",
+                "state_office": "FALSE",
+                "phone": "775-623-5053"
             },
             "geometry": {
                 "type": "Point",
@@ -602,8 +655,9 @@
                 "ID": 22,
                 "vendorid": 25600,
                 "name": "Overton Ace Hardware",
-                "address": "183 South Moapa Valley Boulevard, Moapa Valley, Nevada, 89040",
-                "state_office": "FALSE"
+                "address": "183 South Moapa Valley Boulevard, Moapa Valley 89040",
+                "state_office": "FALSE",
+                "phone": "702-397-2289"
             },
             "geometry": {
                 "type": "Point",
@@ -619,8 +673,9 @@
                 "ID": 31,
                 "vendorid": 60200,
                 "name": "Raine's Market",
-                "address": "901 North Main Street, Eureka, Nevada, 89316",
-                "state_office": "FALSE"
+                "address": "901 North Main Street, Eureka 89316",
+                "state_office": "FALSE",
+                "phone": "775-237-5296"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +691,9 @@
                 "ID": 89,
                 "vendorid": 70500,
                 "name": "Ridley's Family Market",
-                "address": "1125 West Winnemucca Blvd, Winnemucca, Nevada, 89445",
-                "state_office": "FALSE"
+                "address": "1125 West Winnemucca Blvd, Winnemucca 89445",
+                "state_office": "FALSE",
+                "phone": "775-623-2577"
             },
             "geometry": {
                 "type": "Point",
@@ -653,8 +709,9 @@
                 "ID": 92,
                 "vendorid": 125000,
                 "name": "Sagebrush Dreams",
-                "address": "PO Box 829, Tonopah, Nevada, 89049",
-                "state_office": "FALSE"
+                "address": "PO Box 829, Tonopah 89049",
+                "state_office": "FALSE",
+                "phone": "775-482-5683"
             },
             "geometry": {
                 "type": "Point",
@@ -670,8 +727,9 @@
                 "ID": 13,
                 "vendorid": 165300,
                 "name": "Scheels All Sports Inc",
-                "address": "1200 Scheels Drive, Sparks, Nevada, 89434",
-                "state_office": "FALSE"
+                "address": "1200 Scheels Drive, Sparks 89434",
+                "state_office": "FALSE",
+                "phone": "775-331-2700"
             },
             "geometry": {
                 "type": "Point",
@@ -686,9 +744,10 @@
             "properties": {
                 "ID": 72,
                 "vendorid": 131200,
-                "name": "Sportsman's Warehouse",
-                "address": "1443 South Carson Street, Carson City, Nevada, 89701",
-                "state_office": "FALSE"
+                "name": "Sportsman's Warehouse 131200",
+                "address": "1443 South Carson Street, Carson City 89701",
+                "state_office": "FALSE",
+                "phone": "775-884-2100"
             },
             "geometry": {
                 "type": "Point",
@@ -703,9 +762,10 @@
             "properties": {
                 "ID": 75,
                 "vendorid": 166200,
-                "name": "Sportsman's Warehouse",
-                "address": "3306 Kietzke Lane, Reno, Nevada, 89502",
-                "state_office": "FALSE"
+                "name": "Sportsman's Warehouse 166200",
+                "address": "3306 Kietzke Lane, Reno 89502",
+                "state_office": "FALSE",
+                "phone": "775-282-1500"
             },
             "geometry": {
                 "type": "Point",
@@ -720,9 +780,10 @@
             "properties": {
                 "ID": 76,
                 "vendorid": 21210,
-                "name": "Sportsman's Warehouse",
-                "address": "5647 Centennial Center Boulevard, Las Vegas, Nevada, 89149",
-                "state_office": "FALSE"
+                "name": "Sportsman's Warehouse 021210",
+                "address": "5647 Centennial Center Boulevard, Las Vegas 89149",
+                "state_office": "FALSE",
+                "phone": "702-474-1100"
             },
             "geometry": {
                 "type": "Point",
@@ -738,8 +799,9 @@
                 "ID": 15,
                 "vendorid": 171300,
                 "name": "Sportsworld",
-                "address": "1500 Aultman Street, Ely, Nevada, 89301",
-                "state_office": "FALSE"
+                "address": "1500 Aultman Street, Ely 89301",
+                "state_office": "FALSE",
+                "phone": "775-289-8886"
             },
             "geometry": {
                 "type": "Point",
@@ -755,8 +817,9 @@
                 "ID": 40,
                 "vendorid": 46000,
                 "name": "Spring Creek Ace Hardware",
-                "address": "263 Spring Valley Parkway, Spring Creek, Nevada, 89815",
-                "state_office": "FALSE"
+                "address": "263 Spring Valley Parkway, Spring Creek 89815",
+                "state_office": "FALSE",
+                "phone": "775-738-5444"
             },
             "geometry": {
                 "type": "Point",
@@ -772,8 +835,9 @@
                 "ID": 93,
                 "vendorid": 27700,
                 "name": "Sunset Market Bait and Tackle",
-                "address": "1000 East lake Mead Pkwy, Henderson, Nevada, 89015",
-                "state_office": "FALSE"
+                "address": "1000 East lake Mead Pkwy, Henderson 89015",
+                "state_office": "FALSE",
+                "phone": "702-566-0070"
             },
             "geometry": {
                 "type": "Point",
@@ -789,8 +853,9 @@
                 "ID": 90,
                 "vendorid": 95000,
                 "name": "Tillie's Mini Mart",
-                "address": "704 Main Street, Pioche, Nevada, 89043",
-                "state_office": "FALSE"
+                "address": "704 Main Street, Pioche 89043",
+                "state_office": "FALSE",
+                "phone": "775-962-5205"
             },
             "geometry": {
                 "type": "Point",
@@ -806,8 +871,9 @@
                 "ID": 25,
                 "vendorid": 32200,
                 "name": "Topaz Lodge Inc",
-                "address": "1979 Old US Highway 395 South, Gardnerville, Nevada, 89410",
-                "state_office": "FALSE"
+                "address": "1979 Old US Highway 395 South, Gardnerville 89410",
+                "state_office": "FALSE",
+                "phone": "775-266-3337"
             },
             "geometry": {
                 "type": "Point",
@@ -823,8 +889,9 @@
                 "ID": 1,
                 "vendorid": 130700,
                 "name": "Wal-Mart Supercenter #1648",
-                "address": "3770 U.S. 395 Business, Carson City, Nevada, 89701",
-                "state_office": "FALSE"
+                "address": "3770 U.S. 395 Business, Carson City 89701",
+                "state_office": "FALSE",
+                "phone": "775-267-2158"
             },
             "geometry": {
                 "type": "Point",
@@ -840,8 +907,9 @@
                 "ID": 3,
                 "vendorid": 165500,
                 "name": "Wal-Mart Supercenter #4239",
-                "address": "250 Vista Knoll Parkway, Reno, Nevada, 89506",
-                "state_office": "FALSE"
+                "address": "250 Vista Knoll Parkway, Reno 89506",
+                "state_office": "FALSE",
+                "phone": "775-332-0308"
             },
             "geometry": {
                 "type": "Point",
@@ -857,8 +925,9 @@
                 "ID": 7,
                 "vendorid": 45400,
                 "name": "Wal-Mart Supercenter #2402",
-                "address": "2944 Mountain City Highway, Elko, Nevada, 89801",
-                "state_office": "FALSE"
+                "address": "2944 Mountain City Highway, Elko 89801",
+                "state_office": "FALSE",
+                "phone": "775-778-6778"
             },
             "geometry": {
                 "type": "Point",
@@ -874,8 +943,9 @@
                 "ID": 11,
                 "vendorid": 28400,
                 "name": "Wal-Mart Supercenter #3350",
-                "address": "5198 Boulder Highway, Las Vegas, Nevada, 89122",
-                "state_office": "FALSE"
+                "address": "5198 Boulder Highway, Las Vegas 89122",
+                "state_office": "FALSE",
+                "phone": "702-434-5595"
             },
             "geometry": {
                 "type": "Point",
@@ -891,8 +961,9 @@
                 "ID": 12,
                 "vendorid": 104200,
                 "name": "Wal-Mart Supercenter #4370",
-                "address": "1550 East Newlands Road, Fernley, Nevada, 89408",
-                "state_office": "FALSE"
+                "address": "1550 East Newlands Road, Fernley 89408",
+                "state_office": "FALSE",
+                "phone": "775-575-4832"
             },
             "geometry": {
                 "type": "Point",
@@ -908,8 +979,9 @@
                 "ID": 14,
                 "vendorid": 27900,
                 "name": "Wal-Mart Supercenter #3351",
-                "address": "6464 North Decatur Boulevard, Las Vegas, Nevada, 89131",
-                "state_office": "FALSE"
+                "address": "6464 North Decatur Boulevard, Las Vegas 89131",
+                "state_office": "FALSE",
+                "phone": "702-515-7050"
             },
             "geometry": {
                 "type": "Point",
@@ -925,8 +997,9 @@
                 "ID": 20,
                 "vendorid": 12000,
                 "name": "Wal-mart Supercenter - #2453",
-                "address": "2333 Reno Highway, Fallon, Nevada, 89406",
-                "state_office": "FALSE"
+                "address": "2333 Reno Highway, Fallon 89406",
+                "state_office": "FALSE",
+                "phone": "775-428-1700"
             },
             "geometry": {
                 "type": "Point",
@@ -942,8 +1015,9 @@
                 "ID": 23,
                 "vendorid": 168800,
                 "name": "Wal-Mart Supercenter #2189",
-                "address": "4855 Kietzke Lane, Reno, Nevada, 89509",
-                "state_office": "FALSE"
+                "address": "4855 Kietzke Lane, Reno 89509",
+                "state_office": "FALSE",
+                "phone": "775-829-8088"
             },
             "geometry": {
                 "type": "Point",
@@ -959,8 +1033,9 @@
                 "ID": 24,
                 "vendorid": 162000,
                 "name": "Wal-Mart Supercenter #3729",
-                "address": "5065 Pyramid Way, Sparks, Nevada, 89436",
-                "state_office": "FALSE"
+                "address": "5065 Pyramid Way, Sparks 89436",
+                "state_office": "FALSE",
+                "phone": "775-425-9300"
             },
             "geometry": {
                 "type": "Point",
@@ -976,8 +1051,9 @@
                 "ID": 26,
                 "vendorid": 25500,
                 "name": "Wal-Mart Supercenter #2838",
-                "address": "540 Marks Street, Henderson, Nevada, 89014",
-                "state_office": "FALSE"
+                "address": "540 Marks Street, Henderson 89014",
+                "state_office": "FALSE",
+                "phone": "702-547-0551"
             },
             "geometry": {
                 "type": "Point",
@@ -993,8 +1069,9 @@
                 "ID": 29,
                 "vendorid": 26100,
                 "name": "Wal-Mart Supercenter #1560",
-                "address": "6005 South Eastern Avenue, Las Vegas, Nevada, 89119",
-                "state_office": "FALSE"
+                "address": "6005 South Eastern Avenue, Las Vegas 89119",
+                "state_office": "FALSE",
+                "phone": "702-451-8900"
             },
             "geometry": {
                 "type": "Point",
@@ -1010,8 +1087,9 @@
                 "ID": 30,
                 "vendorid": 25300,
                 "name": "Wal-Mart Supercenter #2884",
-                "address": "8060 West Tropical Parkway, Las Vegas, Nevada, 89149",
-                "state_office": "FALSE"
+                "address": "8060 West Tropical Parkway, Las Vegas 89149",
+                "state_office": "FALSE",
+                "phone": "702-839-3620"
             },
             "geometry": {
                 "type": "Point",
@@ -1027,8 +1105,9 @@
                 "ID": 33,
                 "vendorid": 161400,
                 "name": "Wal-Mart Supercenter #3254",
-                "address": "5260 West Seventh Street, Reno, Nevada, 89523",
-                "state_office": "FALSE"
+                "address": "5260 West Seventh Street, Reno 89523",
+                "state_office": "FALSE",
+                "phone": "775-624-2000"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,8 +1123,9 @@
                 "ID": 37,
                 "vendorid": 120300,
                 "name": "Wal-Mart Supercenter #5101",
-                "address": "300 Nevada State Road 160, Pahrump, Nevada, 89048",
-                "state_office": "FALSE"
+                "address": "300 Nevada State Road 160, Pahrump 89048",
+                "state_office": "FALSE",
+                "phone": "775-537-1400"
             },
             "geometry": {
                 "type": "Point",
@@ -1061,8 +1141,9 @@
                 "ID": 41,
                 "vendorid": 27800,
                 "name": "Wal-Mart Supercenter #3847",
-                "address": "1110 West Pioneer Boulevard, Mesquite, Nevada, 89027",
-                "state_office": "FALSE"
+                "address": "1110 West Pioneer Boulevard, Mesquite 89027",
+                "state_office": "FALSE",
+                "phone": "702-346-0208"
             },
             "geometry": {
                 "type": "Point",
@@ -1078,8 +1159,9 @@
                 "ID": 42,
                 "vendorid": 29900,
                 "name": "Wal-Mart Supercenter #2050",
-                "address": "300 East Lake Mead Parkway, Henderson, Nevada, 89015",
-                "state_office": "FALSE"
+                "address": "300 East Lake Mead Parkway, Henderson 89015",
+                "state_office": "FALSE",
+                "phone": "702-564-3665"
             },
             "geometry": {
                 "type": "Point",
@@ -1095,8 +1177,9 @@
                 "ID": 46,
                 "vendorid": 130100,
                 "name": "Wal-Mart Supercenter #3408",
-                "address": "3200 Market Street, Carson City, Nevada, 89706",
-                "state_office": "FALSE"
+                "address": "3200 Market Street, Carson City 89706",
+                "state_office": "FALSE",
+                "phone": "775-883-6415"
             },
             "geometry": {
                 "type": "Point",
@@ -1112,8 +1195,9 @@
                 "ID": 49,
                 "vendorid": 26300,
                 "name": "Wal-Mart Supercenter #1584",
-                "address": "3615 South Rainbow Boulevard, Las Vegas, Nevada, 89103",
-                "state_office": "FALSE"
+                "address": "3615 South Rainbow Boulevard, Las Vegas 89103",
+                "state_office": "FALSE",
+                "phone": "702-367-9999"
             },
             "geometry": {
                 "type": "Point",
@@ -1129,8 +1213,9 @@
                 "ID": 50,
                 "vendorid": 28100,
                 "name": "Wal-Mart Supercenter #5070",
-                "address": "5200 South Fort Apache Road, Las Vegas, Nevada, 89148",
-                "state_office": "FALSE"
+                "address": "5200 South Fort Apache Road, Las Vegas 89148",
+                "state_office": "FALSE",
+                "phone": "702-367-4001"
             },
             "geometry": {
                 "type": "Point",
@@ -1145,9 +1230,10 @@
             "properties": {
                 "ID": 55,
                 "vendorid": 20400,
-                "name": "Wal-mart #1838",
-                "address": "3041 North Rainbow Boulevard, Las Vegas, Nevada, 89108",
-                "state_office": "FALSE"
+                "name": "Wal-Mart #1838",
+                "address": "3041 North Rainbow Boulevard, Las Vegas 89108",
+                "state_office": "FALSE",
+                "phone": "702-656-0199"
             },
             "geometry": {
                 "type": "Point",
@@ -1163,8 +1249,9 @@
                 "ID": 58,
                 "vendorid": 27500,
                 "name": "Wal-Mart Supercenter #2593",
-                "address": "2310 East Serene Avenue, Las Vegas, Nevada, 89123",
-                "state_office": "FALSE"
+                "address": "2310 East Serene Avenue, Las Vegas 89123",
+                "state_office": "FALSE",
+                "phone": "702-270-7831"
             },
             "geometry": {
                 "type": "Point",
@@ -1180,8 +1267,9 @@
                 "ID": 60,
                 "vendorid": 29300,
                 "name": "Wal-Mart Supercenter #4557",
-                "address": "3075 East Tropicana Avenue, Las Vegas, Nevada, 89121",
-                "state_office": "FALSE"
+                "address": "3075 East Tropicana Avenue, Las Vegas 89121",
+                "state_office": "FALSE",
+                "phone": "702-433-4267"
             },
             "geometry": {
                 "type": "Point",
@@ -1197,8 +1285,9 @@
                 "ID": 62,
                 "vendorid": 25700,
                 "name": "Wal-Mart #1559",
-                "address": "201 North Nellis Boulevard, Las Vegas, Nevada, 89110",
-                "state_office": "FALSE"
+                "address": "201 North Nellis Boulevard, Las Vegas 89110",
+                "state_office": "FALSE",
+                "phone": "702-452-9998"
             },
             "geometry": {
                 "type": "Point",
@@ -1214,8 +1303,9 @@
                 "ID": 80,
                 "vendorid": 21600,
                 "name": "Wal-Mart Supercenter #3473",
-                "address": "4505 West Charleston Boulevard, Las Vegas, Nevada, 89102",
-                "state_office": "FALSE"
+                "address": "4505 West Charleston Boulevard, Las Vegas 89102",
+                "state_office": "FALSE",
+                "phone": "702-258-4540"
             },
             "geometry": {
                 "type": "Point",
@@ -1231,8 +1321,9 @@
                 "ID": 81,
                 "vendorid": 169900,
                 "name": "Wal-Mart Supercenter #3277",
-                "address": "155 Damonte Ranch Parkway, Reno, Nevada, 89521",
-                "state_office": "FALSE"
+                "address": "155 Damonte Ranch Parkway, Reno 89521",
+                "state_office": "FALSE",
+                "phone": "775-853-6400"
             },
             "geometry": {
                 "type": "Point",
@@ -1248,8 +1339,9 @@
                 "ID": 83,
                 "vendorid": 28500,
                 "name": "Wal-Mart Supercenter #4356",
-                "address": "7200 Arroyo Boulevard, Las Vegas, Nevada, 89133",
-                "state_office": "FALSE"
+                "address": "7200 Arroyo Boulevard, Las Vegas 89133",
+                "state_office": "FALSE",
+                "phone": "702-270-6003"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,8 +1357,9 @@
                 "ID": 84,
                 "vendorid": 70300,
                 "name": "Wal-Mart Supercenter #2617",
-                "address": "3010 Potato Road, Winnemucca, Nevada, 89445",
-                "state_office": "FALSE"
+                "address": "3010 Potato Road, Winnemucca 89445",
+                "state_office": "FALSE",
+                "phone": "775-625-3777"
             },
             "geometry": {
                 "type": "Point",
@@ -1282,8 +1375,9 @@
                 "ID": 88,
                 "vendorid": 168600,
                 "name": "Wal-Mart Supercenter #2106",
-                "address": "2425 East 2nd Street, Reno, Nevada, 89502",
-                "state_office": "FALSE"
+                "address": "2425 East 2nd Street, Reno 89502",
+                "state_office": "FALSE",
+                "phone": "775-359-8200"
             },
             "geometry": {
                 "type": "Point",
