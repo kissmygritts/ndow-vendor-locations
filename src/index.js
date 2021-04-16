@@ -87,5 +87,5 @@ document.addEventListener('locate-me', (event) => {
   }
 })
 
-var layerSwitcher = new LayerSwitcher();
-map.addControl(layerSwitcher);
+// var layerSwitcher = new LayerSwitcher();
+// map.addControl(layerSwitcher);
