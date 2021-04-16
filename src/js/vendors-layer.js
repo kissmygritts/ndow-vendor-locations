@@ -18,7 +18,7 @@ const stateStyle = new Style({
 const vendorsStyle = new Style({
   image: new Icon({
     src: shop,
-    scale: 1.1,
+    scale: 0.9,
     opacity: 0.9
   })
 })
