@@ -1,29 +1,36 @@
 import VectorSource from 'ol/source/Vector'
 import VectorLayer from 'ol/layer/Vector'
 import GeoJSON from 'ol/format/GeoJSON'
-import { Style, Circle, Fill, Stroke } from 'ol/style'
-import vendors from '../data/vendors.geojson'
+import { Style, Icon } from 'ol/style'
+import vendors from '../data/vendor.geojson'
+import offices from '../data/state_offices.geojson'
+import shop from '../data/shop.svg'
+import capitol from '../data/capitol.svg'
 
-const vendorsStyle = new Style({
-  image: new Circle({
-    radius: 7,
-    fill: new Fill({ color: [90, 100, 125, 0.75] }),
-    stroke: new Stroke({
-      color: [53, 85, 166, 0.5],
-      width: 2
-    })
+const stateStyle = new Style({
+  image: new Icon({
+    src: capitol,
+    scale: 2,
+    opacity: 0.9
   })
 })
 
-const nonVendorStyle = new Style({
-  image: new Circle({
-    radius: 7,
-    fill: new Fill({ color: [240, 81, 89, 0.25] }),
-    stroke: new Stroke({
-      color: [140, 35, 40, 0.5],
-      width: 2
-    })
+const vendorsStyle = new Style({
+  image: new Icon({
+    src: shop,
+    scale: 1.1,
+    opacity: 0.9
   })
+})
+
+const officeSource = new VectorSource({
+  format: new GeoJSON(),
+  url: offices
+})
+
+const officeLayer = new VectorLayer({
+  source: officeSource,
+  style: stateStyle
 })
 
 const vendorsSource = new VectorSource({
@@ -33,15 +40,10 @@ const vendorsSource = new VectorSource({
 
 const vendorsLayer = new VectorLayer({
   source: vendorsSource,
-  style: function (feature) {
-    if (feature.values_.pos_agent === 'FALSE') {
-      return nonVendorStyle
-    } else {
-      return vendorsStyle
-    }
-  }
+  style: vendorsStyle
 })
 
 vendorsLayer.set('name', 'vendors')
+officeLayer.set('name', 'vendors')
 
-export { vendorsLayer }
+export { vendorsLayer, officeLayer }

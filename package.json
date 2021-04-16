@@ -15,7 +15,8 @@
   ],
   "license": "Unlicense",
   "dependencies": {
-    "ol": "^6.5.0"
+    "ol": "^6.5.0",
+    "ol-layerswitcher": "^3.8.3"
   },
   "devDependencies": {
     "eslint": "^7.22.0",

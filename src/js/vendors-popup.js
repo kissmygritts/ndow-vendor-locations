@@ -19,9 +19,8 @@ const createVendorPopup = (feature) => {
 
   popupTitle.innerHTML = `${properties.name.toLowerCase()}`
   popupBody.innerHTML = `
+      <p><bold>Address: </bold>${properties.address.toLowerCase()}</p>
       <p><bold>Phone: </bold>${properties.phone}</p>
-      <p>${properties.address.toLowerCase()}</p>
-      <p>License Sales Avaliable: ${properties.pos_agent.toLowerCase()}</p>
     `
   popupLink.href = googleMapsLink
 

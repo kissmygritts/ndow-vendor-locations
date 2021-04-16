@@ -1,8 +1,28 @@
+#title {
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+
+html {
+  background-color: rgb(79, 81, 112);
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 #map {
         width: 100%;
-        height: 100%;
+        height: 90%;
       }
-
+      /* layer control button styles */    
+      .ol-control button {
+        background-color: rgba(98, 102, 105, 0.5) !important;
+      }
       /* Popup styles */
       .ol-popup {
         position: absolute;
@@ -13,7 +33,7 @@
         border: 1px solid #cccccc;
         bottom: 12px;
         left: -50px;
-        min-width: 300px;
+        min-width: 475px;
         text-transform: capitalize;
       }
 
@@ -85,14 +105,149 @@
         margin-top: 12px;
         width: 100%;
         padding: 6px;
-        background-color: #678e6c;
+        background-color: rgb(79, 81, 112);
         border-radius: 4px;
-        /* text-align: center; */
         display: flex;
         justify-content: center;
         align-items: center
       }
+
       .locate {
         top: 4em;
         left: .5em;
+      }
+
+      /* Popup styles */
+      .layer-switcher {
+        bottom: 3em;
+        right: 1em;
+        text-align: left;
+      }
+      
+      .layer-switcher .panel {
+        margin: 0;
+        border: 4px solid #eee;
+        border-radius: 10px;
+        background-color: rgb(0, 0, 0);
+        display: none;
+        max-height: inherit;
+        height: 100%;
+        box-sizing: border-box;
+        overflow-y: auto;
+        opacity: 75%;
+      }
+      
+      .layer-switcher button {
+        float: right;
+        z-index: 1;
+        background-image: url(../data/layer.svg);
+        background-repeat: no-repeat;
+        padding: 20px !important;
+      }
+      
+      .layer-switcher button:focus,
+      .layer-switcher button:hover {
+        background-color: white;
+      }
+      .layer-switcher.shown {
+        overflow-y: hidden;
+      }
+      .layer-switcher.shown.ol-control {
+        background-color: transparent;
+      }
+      
+      .layer-switcher.shown.ol-control:hover {
+        background-color: transparent;
+      }
+      .layer-switcher.shown .panel {
+        display: block;
+      }
+      
+      .layer-switcher.shown button {
+        display: none;
+      }
+      
+      .layer-switcher.shown.layer-switcher-activation-mode-click > button {
+        display: block;
+        background-image: unset;
+        right: 2px;
+        position: absolute;
+        background-color: #eee;
+        margin: 0 1px;
+      }
+      
+      .layer-switcher.shown button:focus,
+      .layer-switcher.shown button:hover {
+        background-color: #fafafa;
+      }
+      
+      .layer-switcher ul {
+        list-style: none;
+        margin: 1.6em 0.4em;
+        padding-left: 0;
+      }
+      .layer-switcher ul ul {
+        padding-left: 1.2em;
+        margin: 0.1em 0 0 0;
+      }
+      .layer-switcher li.group + li.group {
+        margin-top: 0.4em;
+      }
+      
+      .layer-switcher li.group > label {
+        font-weight: bold;
+        color:#fff;
+      }
+      
+      .layer-switcher.layer-switcher-group-select-style-none li.group > label {
+        padding-left: 1.2em;
+      }
+      
+      .layer-switcher li {
+        position: relative;
+        margin-top: 0.3em;
+      }
+      
+      .layer-switcher li input {
+        position: absolute;
+        left: 1.2em;
+        height: 1em;
+        width: 1em;
+        font-size: 1em;
+      }
+      .layer-switcher li label {
+        padding-left: 2.7em;
+        padding-right: 1.2em;
+        display: inline-block;
+        margin-top: 1px;
+      }
+      
+      .layer-switcher label.disabled {
+        opacity: 0.4;
+      }
+      
+      .layer-switcher input {
+        margin: 0px;
+      }
+      
+      .layer-switcher.touch ::-webkit-scrollbar {
+        width: 4px;
+      }
+      
+      li.layer-switcher-base-group > label {
+        padding-left: 1.2em;
+      }
+      
+      .layer-switcher .group.layer-switcher-close button {
+        transform: rotate(-90deg);
+        -webkit-transform: rotate(-90deg);
+      }
+      
+      /*layerswitcher on the right*/
+      .layer-switcher.shown.layer-switcher-activation-mode-click {
+        padding-left: 34px;
+      }
+      .layer-switcher.shown.layer-switcher-activation-mode-click > button {
+        left: 0;
+        border-right: 0;
       }
