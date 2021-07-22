@@ -1386,6 +1386,24 @@
                     39.52906915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 96,
+                "vendorid": 29700,
+                "name": "Laughlin Chamber of Commerce",
+                "address": "1585 South Casino Drive, Laughlin 89029",
+                "state_office": "FALSE",
+                "phone": "702-298-2214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.5723212,
+                    35.1694667
+                ]
+            }
         }
     ]
 }
